@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_8f779590884a88f7667a4622d25decaee9e904b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_8f779590884a88f7667a4622d25decaee9e904b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_c2f732455338e85fa5db74c99fe355dd69d920f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_05fa9812933680ed5f91605e5de48f56628652b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_d90ebe4f431e3c160dc4e3840dd3b840ed756a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_05fa9812933680ed5f91605e5de48f56628652b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_d90ebe4f431e3c160dc4e3840dd3b840ed756a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_ce2d9b5176c845676bbad81fb732784831f80116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_830d76ca09887f4956e56a235ce15262f39ca4e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_c2f732455338e85fa5db74c99fe355dd69d920f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_830d76ca09887f4956e56a235ce15262f39ca4e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\best\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="F:\best\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_ce2d9b5176c845676bbad81fb732784831f80116.jar" />
+    </item>
+
+</items>
